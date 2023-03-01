@@ -1,1 +1,3 @@
 # Testowanie-Oprogramowania
+
+Repozytorium przedstawia ...
