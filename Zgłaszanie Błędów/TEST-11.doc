@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#TEST-11] Błędna zmiana ilości produktu w koszyku.</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://testowanie0001.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEST-11]&nbsp;<a href="https://testowanie0001.atlassian.net/browse/TEST-11">Błędna zmiana ilości produktu w koszyku.</a>
+            <span class="subText">
+               Utworzono: 01/mar/23                   &nbsp;Zaktualizowano: 01/mar/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Do zrobienia</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://testowanie0001.atlassian.net/secure/BrowseProject.jspa?id=10000">Testowanie</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Ma wpływ na wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersje do poprawienia:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Błąd w programie
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63776ed23c26ca7fa0d18839"
+                id="word_reporter_63776ed23c26ca7fa0d18839"
+                href="https://testowanie0001.atlassian.net/secure/ViewProfile.jspa?accountId=63776ed23c26ca7fa0d18839">
+                    Michał Sienkiewicz
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63776ed23c26ca7fa0d18839"
+                id="word_assignee_63776ed23c26ca7fa0d18839"
+                href="https://testowanie0001.atlassian.net/secure/ViewProfile.jspa?accountId=63776ed23c26ca7fa0d18839">
+                    Michał Sienkiewicz
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Nierozwiązane
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10010-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Brak
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+    </tr>
+    
+    	<tr>
+
+		<td bgcolor="#f0f0f0" width="20%" valign="top">
+			<b>Środowisko:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" colspan="3">
+            <p>Produkcyjne</p>
+		</td>
+	</tr>
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Załączniki:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://testowanie0001.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Plik PNG">
+                    image-20230301-111927.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10010-value" class="value" bgcolor="#ffffff" width="80%">Sprint 2</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10010-value" class="value" bgcolor="#ffffff" width="80%">      0|i0001j:
+  </td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Opis</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <h3><a name="Opis%3A"></a>Opis:</h3>
+
+<p>Po dodaniu dowolnego produktu do koszyka i zamówieniu go w ilości np. 5 sztuk, produkt jest dostępny w ilości 95 (prawidłowo). Po ponownym dodaniu tego samego produktu do koszyka, możliwa jest zmiana ilości  do 100 mimo braku produktu w sklepie. W zakładce sklep w kolumnie “ilość” pojawi się minusowa wartość.</p>
+
+
+
+<h3><a name="Warunkiwst%C4%99pne%3A"></a>Warunki wstępne:</h3>
+
+<ol>
+	<li>Zalogowanie się do aplikacji Mr Buggy3</li>
+	<li>Wybranie zadania drugiego po prawej stronie aplikacji</li>
+</ol>
+
+
+<h3><a name="Listakrok%C3%B3wdoreprodukcji%3A"></a>Lista kroków do reprodukcji: </h3>
+
+<ol>
+	<li>Dodanie dowolnego produktu do koszyka.</li>
+	<li>Kliknięcie w przycisk “Zamów” w zakładce “Koszyk”.</li>
+	<li>Ponowne dodanie tego samego produktu do koszyka.</li>
+	<li>Zmiana ilości produktu w zakładce “Koszyk” o wartość większą niż istniejąca wartość w sklepie (np. 100)</li>
+	<li>Kliknięcie w przycisk “Zamów”</li>
+</ol>
+
+
+<h3><a name="Rzeczywistyrezultat%3A"></a>Rzeczywisty rezultat:</h3>
+
+<p>Wartość minusowa produktu w kolumnie “Ilość” w zakładce  “Sklep”. </p>
+
+
+
+<h3><a name="Oczekiwanyrezultat%3A"></a>Oczekiwany rezultat:</h3>
+
+<p>Brak możliwości dodania do koszyka produktu w ilości większej niż znajduje się w sklepie</p>
+
+<p>Wyświetlenie komunikatu “W magazynie zostało X sztuk”</p>
+
+
+
+<h3><a name="Za%C5%82%C4%85cznik%3A"></a>Załącznik:</h3>
+
+<p><span class="image-wrap" style=""><img src="/secure/attachment/10005/10005_image-20230301-111927.png" height="505" width="567" style="border: 0px solid black" /></span></p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Wygenerowane (Wed Mar 01 11:23:54 UTC 2023) przez Michał Sienkiewicz z użyciem systemu Jira 1001.0.0-SNAPSHOT#100217-sha1:65be9f24a8f87792be90e53a8c87215bef7ad6bc.
+
+</body>
+</html>

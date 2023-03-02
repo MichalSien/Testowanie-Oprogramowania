@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#TEST-12] Możliwość wpisania cyfr, oraz znaków specjalnych w pola &quot;Imię&quot; i &quot;Nazwisko&quot;</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://testowanie0001.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEST-12]&nbsp;<a href="https://testowanie0001.atlassian.net/browse/TEST-12">Możliwość wpisania cyfr, oraz znaków specjalnych w pola &quot;Imię&quot; i &quot;Nazwisko&quot;</a>
+            <span class="subText">
+               Utworzono: 02/mar/23                   &nbsp;Zaktualizowano: 02/mar/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Do zrobienia</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://testowanie0001.atlassian.net/secure/BrowseProject.jspa?id=10000">Testowanie</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Ma wpływ na wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersje do poprawienia:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Błąd w programie
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Low
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63776ed23c26ca7fa0d18839"
+                id="word_reporter_63776ed23c26ca7fa0d18839"
+                href="https://testowanie0001.atlassian.net/secure/ViewProfile.jspa?accountId=63776ed23c26ca7fa0d18839">
+                    Michał Sienkiewicz
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63776ed23c26ca7fa0d18839"
+                id="word_assignee_63776ed23c26ca7fa0d18839"
+                href="https://testowanie0001.atlassian.net/secure/ViewProfile.jspa?accountId=63776ed23c26ca7fa0d18839">
+                    Michał Sienkiewicz
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Nierozwiązane
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10011-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Brak
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+    </tr>
+    
+    	<tr>
+
+		<td bgcolor="#f0f0f0" width="20%" valign="top">
+			<b>Środowisko:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" colspan="3">
+            <p>Produkcyjne</p>
+		</td>
+	</tr>
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Załączniki:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://testowanie0001.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Plik PNG">
+                    image-20230302-093644.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://testowanie0001.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Plik PNG">
+                    image-20230302-093710.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10011-value" class="value" bgcolor="#ffffff" width="80%">Mr Buggy3</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10011-value" class="value" bgcolor="#ffffff" width="80%">      0|i0001r:
+  </td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Opis</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <h3><a name="Opis%3A"></a>Opis:</h3>
+
+<p>W polach “Imię” oraz “Nazwisko” możliwe jest wpisanie cyfr oraz znaków specjalnych.</p>
+
+
+
+<h3><a name="Krokidoreprodukcji%3A"></a>Kroki do reprodukcji:</h3>
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Lp.</b></th>
+<th class='confluenceTh'><b>Kroki</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'>1.</td>
+<td class='confluenceTd'>Zalogowanie się do aplikacji Mr Buggy3 poprzez wprowadzenie poprawnych danych do logowania.</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2.</td>
+<td class='confluenceTd'>Otworzenie zakładki zadania “3” z prawej strony panelu.</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3.</td>
+<td class='confluenceTd'>Poprawne wypełnienie pól: 
+<ul>
+	<li>Nazwa użytkownika (Min. 6 znaków)</li>
+	<li>Hasło (Min. 6 znaków w tym jedna duża litera i cyfra)</li>
+	<li>Powtórz hasło</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4.</td>
+<td class='confluenceTd'>Wpisanie cyfry lub znaków specjalnych w pole/a <b>“Imię”, “Nazwisko”</b> (w obu przypadkach występuje błędna walidacja danych)</td>
+</tr>
+</tbody></table>
+</div>
+
+
+
+
+<h3><a name="Rzeczywistyrezultat%3A"></a>Rzeczywisty rezultat:</h3>
+
+<p>Możliwa rejestracja użytkownika z niepoprawnym imieniem i nazwiskiem.</p>
+
+
+
+<h3><a name="Oczekiwanyrezultat%3A"></a>Oczekiwany rezultat:</h3>
+
+<p>Wyświetlenie komunikatu walidacyjnego:</p>
+
+<ul>
+	<li>Pole “Imię” nie może zawierać cyfr oraz znaków specjalnych</li>
+	<li>Pole “Nazwisko” nie może zawierać cyfr oraz znaków specjalnych</li>
+</ul>
+
+
+
+
+<h3><a name="Za%C5%82%C4%85czniki%3A"></a>Załączniki:</h3>
+
+<p><span class="image-wrap" style=""><img src="/secure/attachment/10007/10007_image-20230302-093644.png" height="416" width="561" style="border: 0px solid black" /></span></p>
+
+<p><span class="image-wrap" style=""><img src="/secure/attachment/10008/10008_image-20230302-093710.png" height="81" width="305" style="border: 0px solid black" /></span></p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Wygenerowane (Thu Mar 02 11:15:36 UTC 2023) przez Michał Sienkiewicz z użyciem systemu Jira 1001.0.0-SNAPSHOT#100217-sha1:65be9f24a8f87792be90e53a8c87215bef7ad6bc.
+
+</body>
+</html>

@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#TEST-14] Zwiększenie kwoty przelewu o 1zł przy podaniu liczby całkowitej.</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://testowanie0001.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TEST-14]&nbsp;<a href="https://testowanie0001.atlassian.net/browse/TEST-14">Zwiększenie kwoty przelewu o 1zł przy podaniu liczby całkowitej.</a>
+            <span class="subText">
+               Utworzono: 02/mar/23                   &nbsp;Zaktualizowano: 02/mar/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Do zrobienia</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projekt:</b></td>
+        <td width="80%"><a href="https://testowanie0001.atlassian.net/secure/BrowseProject.jspa?id=10000">Testowanie</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Komponenty:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Ma wpływ na wersje:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Wersje do poprawienia:</b></td>
+            <td>
+                            Brak
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Typ:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Błąd w programie
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priorytet:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Osoba zgłaszająca:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63776ed23c26ca7fa0d18839"
+                id="word_reporter_63776ed23c26ca7fa0d18839"
+                href="https://testowanie0001.atlassian.net/secure/ViewProfile.jspa?accountId=63776ed23c26ca7fa0d18839">
+                    Michał Sienkiewicz
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Osoba przypisana:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63776ed23c26ca7fa0d18839"
+                id="word_assignee_63776ed23c26ca7fa0d18839"
+                href="https://testowanie0001.atlassian.net/secure/ViewProfile.jspa?accountId=63776ed23c26ca7fa0d18839">
+                    Michał Sienkiewicz
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Rozwiązanie:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Nierozwiązane
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Głosy:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etykiety:</b>
+        </td>
+        <td id="labels-10013-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Brak
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Pozostały koszt:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Czas poświęcony:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Pierwotne oszacowanie:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Nie określono
+            		</td>
+    </tr>
+    
+    	<tr>
+
+		<td bgcolor="#f0f0f0" width="20%" valign="top">
+			<b>Środowisko:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" colspan="3">
+            <p>Produkcyjne</p>
+		</td>
+	</tr>
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Załączniki:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://testowanie0001.atlassian.net/images/icons/attach/file.gif" height="16" width="16" border="0" alt="Plik">
+                    MrBuggy3_1.2.0.146_(1)_1beZSD12lM.mp4 &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10013-value" class="value" bgcolor="#ffffff" width="80%">Mr Buggy3</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10013-value" class="value" bgcolor="#ffffff" width="80%">      0|i00027:
+  </td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Opis</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <h3><a name="Opis%3A"></a>Opis: </h3>
+
+<p>Po podaniu kwoty jako liczba całkowita i jej zatwierdzeniu, następuje zwiększenie tej kwoty o 1 zł. To oznacza, że jeśli użytkownik wprowadził kwotę 10 zł, po zatwierdzeniu system zwiększy ją automatycznie do 11 zł. W przypadku wpisania całej dostępnej kwoty na rachunku w postaci liczby całkowitej, a następnie zatwierdzenie i wysłanie przelewu uzyskamy ujemną kwotę w zakładce “Dostępne środki” . Jest to niepożądane zachowanie, ponieważ nie odzwierciedla faktycznej kwoty wprowadzonej przez użytkownika. </p>
+
+
+
+<h3><a name="Warunkiwst%C4%99pne%3A"></a>Warunki wstępne:</h3>
+
+<ul>
+	<li>Zalogowanie się do aplikacji MrBuggy3</li>
+	<li>Uruchomienie zadania nr 4 w panelu bocznym po prawej stronie.</li>
+</ul>
+
+
+<h3><a name="Krokidoreprodukcji%3A"></a>Kroki do reprodukcji:</h3>
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Lp.</b></th>
+<th class='confluenceTh'><b>Treść</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'>1.</td>
+<td class='confluenceTd'>Wpisanie poprawnego numeru rachunku odbiorcy</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2.</td>
+<td class='confluenceTd'>Wpisanie poprawnego pola “Nazwa odbiorcy”</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3.</td>
+<td class='confluenceTd'>Wpisanie pola “Tytuł przelewu”</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4.</td>
+<td class='confluenceTd'>Uzupełnienie pola “Kwota” <b>liczbą całkowitą.</b></td>
+</tr>
+<tr>
+<td class='confluenceTd'>5.</td>
+<td class='confluenceTd'>Zatwierdzenie przyciskiem “OK”</td>
+</tr>
+</tbody></table>
+</div>
+
+
+
+
+<h3><a name="Rzeczywistyrezultat%3A"></a>Rzeczywisty rezultat:</h3>
+
+<p>Kwota w postaci liczby całkowitej podana przez użytkownika zwiększa się o 1zł.</p>
+
+
+
+<h3><a name="Oczekiwanyrezultat%3A"></a>Oczekiwany rezultat: </h3>
+
+<p>Podana kwota musi odzwierciedlać kwotę podaną przez użytkownika.</p>
+
+
+
+<h3><a name="Za%C5%82%C4%85czniki%3A"></a>Załączniki:</h3>
+
+<p><div class="embeddedObject"><object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="https://www.apple.com/qtactivex/qtplugin.cab" data="/secure/attachment/10010/10010_MrBuggy3_1.2.0.146_%281%29_1beZSD12lM.mp4?stream=true" height="418" type="video/mp4" width="562" ><param name="data" value="/secure/attachment/10010/10010_MrBuggy3_1.2.0.146_%281%29_1beZSD12lM.mp4?stream=true"/><param name="src" value="/secure/attachment/10010/10010_MrBuggy3_1.2.0.146_%281%29_1beZSD12lM.mp4?stream=true"/><param name="type" value="video/mp4"/><embed height="418" pluginspage="https://www.apple.com/quicktime/download/" src="/secure/attachment/10010/10010_MrBuggy3_1.2.0.146_%281%29_1beZSD12lM.mp4?stream=true" type="video/mp4" width="562" /></object></div></p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Wygenerowane (Thu Mar 02 11:15:46 UTC 2023) przez Michał Sienkiewicz z użyciem systemu Jira 1001.0.0-SNAPSHOT#100217-sha1:65be9f24a8f87792be90e53a8c87215bef7ad6bc.
+
+</body>
+</html>
